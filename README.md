@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Jamal Meizongo
-- 👀 I’m interested in game and web development
+- 👀 I am a game and web development
 - 👨‍💻 I’m looking to collaborate on mobile game projects and web applications
 - 📫 You can reach me at mrmeizongo@thesleepingwalrus.com
 
