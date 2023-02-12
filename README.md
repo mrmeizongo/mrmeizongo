@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Jamal Meizongo
 - 👀 I am a game and web development
 - 👨‍💻 I’m looking to collaborate on mobile game projects and web applications
-- 📫 You can reach me at mrmeizongo@thesleepingwalrus.com
+- 📫 You can reach me at mrmeizongo@outlook.com
 
 <!---
 mrmeizongo/mrmeizongo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
