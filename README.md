@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Jamal Meizongo
-- 👀 I am a game and web development
-- 👨‍💻 I’m looking to collaborate on mobile game projects and web applications
+- 👀 I'm interested in all things dev.
+- 🙃 Game, web & embedded systems
 - 📫 You can reach me at mrmeizongo@outlook.com
 
 <!---
