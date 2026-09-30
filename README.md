@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Jamal Meizongo
-- 👀 I'm interested in all things dev
-- 🙃 Game, web & embedded systems development
+- 👀 I'm interested in all things embedded
 - 📫 You can reach me at mrmeizongo@outlook.com
 
 <!---
