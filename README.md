@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Jamal Meizongo
-- 👀 I'm interested in all things embedded
+- 👀 I'm interested in aviation and embedded systems
 - 📫 You can reach me at mrmeizongo@outlook.com
 
 <!---
