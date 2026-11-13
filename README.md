@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Jamal Meizongo
 - 👀 Aviation and embedded systems
-- 📫 You can reach me at mrmeizongo@outlook.com
+- 📫 mrmeizongo@outlook.com
 
 <!---
 mrmeizongo/mrmeizongo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
